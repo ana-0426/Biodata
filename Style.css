@@ -1,0 +1,40 @@
+body{
+
+	 position: absolute;
+        margin:500; 
+        padding:500; 
+        width:100%;s
+        text-align: center;
+        background-color:#FFC0CB;
+
+}
+.lam{
+	text-align: center;
+	align-items: center;
+}
+.main{
+	text-align: left;
+padding-left: 350px;
+}
+
+.rel{
+	padding-left: 253px;
+}
+.age{
+	padding-left: 250px;
+}
+.we{
+	padding-left: 255px;
+}
+.he{
+	padding-left: 237px;
+}
+.yg{
+	padding-left: 264px;
+}
+.gy{
+	padding-left: 260px;
+}
+.grad{
+	padding-left: 297px;
+}
